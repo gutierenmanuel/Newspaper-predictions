@@ -1,4 +1,4 @@
-# TITLE PROYECT
+# NEWSPAPER PREDICTIONS
 
 explanation of the github project
 
