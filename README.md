@@ -12,7 +12,7 @@ explanation of the github project
 
 ## Usage
 
-use or tutorial of the project
+use our tutorial of the project
 
 ## Examples
 
